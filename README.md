@@ -2,7 +2,7 @@
 
 <img src="idus-hw-player.png" alt="Idus HW-player" height="140">
 
-# Idus HW-player
+# Idus Halloween-player
 
 **The Idus Halloween Player — random scares in your window, run from your browser.**
 
